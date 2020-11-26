@@ -44,7 +44,7 @@ sudo systemctl restart docker
 
 容器:通过镜像创建的实例
 
-![1606401616948](C:\Users\弘毅\AppData\Local\Temp\1606401616948.png)
+
 
 ````shell
 # docker 存储位置
