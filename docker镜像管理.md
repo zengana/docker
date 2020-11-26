@@ -43,7 +43,7 @@ sudo systemctl restart docker
 镜像: 类似于虚拟机镜像,一个只读模板
 
 容器:通过镜像创建的实例
-https://github.com/zengana/docker/blob/main/photo/container.png
+ ![image]https://github.com/zengana/docker/blob/main/photo/container.png
 
 
 ````shell
